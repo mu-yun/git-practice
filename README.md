@@ -4,3 +4,4 @@ master:2
 dev change
 master change
 rebase 2 times
+dev change
