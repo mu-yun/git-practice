@@ -1,2 +1,3 @@
 # git-practice
-git rebase dev
+dev:1
+master:2
